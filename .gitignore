@@ -1,6 +1,10 @@
 *.c
+*.o
+*.a
+*.h
 *.so
 *.pyx
 build
 *vmd*
 *.py
+.ipynb_checkpoints
