@@ -1,5 +1,6 @@
 *.o
 *.c
+examples
 *.a
 *.h
 *.so
