@@ -9,3 +9,6 @@ build
 *vmd*
 *.py
 .ipynb_checkpoints
+lib/examples*
+__pycache__
+*.pyxbld
