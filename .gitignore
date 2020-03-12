@@ -12,3 +12,5 @@ build
 lib/examples*
 __pycache__
 *.pyxbld
+Test_MD_engine.ipynb
+performance*
