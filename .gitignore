@@ -14,3 +14,4 @@ __pycache__
 *.pyxbld
 Test_MD_engine.ipynb
 performance*
+cython_workshop_ideas.ipynb
